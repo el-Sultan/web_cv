@@ -1,12 +1,12 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "FOUAD MESBAH",
+    "occupation": "Developer WEB",
+    "location": "VILLE LA GRAND, FR",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "",
+    "email": "m.fouad@outklook.fr",
+    "telephone": "+33 781 490 438",
+    "website": "https://outillagebatiment.com",
     "skills": [
         "HTML",
         "CSS",
@@ -17,28 +17,28 @@
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Français",
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
+            "name": "Arabe",
+            "level": "native"
         },
         {
-            "name": "French",
+            "name": "English",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@fouadMesbah",
+            "url": "https://github.com/el-Sultan"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "FouadMESBAH",
+            "url": "https://www.linkedin.com/in/fouad-mesbah"
         }
     ]
 }
