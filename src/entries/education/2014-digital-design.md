@@ -1,7 +1,7 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
-location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+title: BTS, Conducteur de travaux
+organization: CFEI
+location: Besançon, FR
+start: 2013-09-16
+end: 2014-07-01
 ---
