@@ -1,6 +1,7 @@
 ---
 tags: introduction
-title: About Me
+title: A propose de moi
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+Je suis un en formation développeur web data </Concepteur développeur d'application> chez Digifab.
+Je suis quelqu’un d’autodidacte, motivé, j’ai déjà réalisé un site E-commerce, je suis constamment à la recherche de nouveaux défis.
