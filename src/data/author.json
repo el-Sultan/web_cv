@@ -17,15 +17,15 @@
     "languages": [
         {
             "name": "Français",
-            "level": "native"
+            "level": "maternelle"
         },
         {
             "name": "Arabe",
-            "level": "native"
+            "level": "maternelle"
         },
         {
             "name": "English",
-            "level": "basic"
+            "level": "basique"
         }
     ],
     "social": [
