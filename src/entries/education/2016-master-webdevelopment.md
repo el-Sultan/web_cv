@@ -1,5 +1,5 @@
 ---
-title: Licence, Développeur web
+title: Licence, Développeur Data
 organization: Digifab
 organizationUrl: https://digifab.fr/
 location: Annemasse, FR
