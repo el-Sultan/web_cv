@@ -1,6 +1,6 @@
 ---
 tags: introduction
-title: A propose de moi
+title: A propos de moi
 ---
 
 Je suis en formation développeur web data </Concepteur développeur d'application> chez Digifab.
