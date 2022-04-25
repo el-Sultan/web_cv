@@ -1,10 +1,10 @@
 ---
-title: Intern
-organization: Microsoft
-organizationUrl: https://www.microsoft.com
-location: Redmond, CA
-start: 2019-02-18
-end: 2019-11-21
+title: Technicien courant faible
+organization: N2000 et Chergui Elec
+organizationUrl:
+location: Montpiiler, FR
+start: 2009-02-18
+end: 2013-07-05
 ---
 
-Ipsum a arcu cursus vitae congue. Arcu ac tortor dignissim convallis. Integer malesuada nunc vel risus commodo. Vitae turpis massa sed elementum. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum.
+J’ai travaillé chez différentes sociétés en France. Ma mission consistait à acheminer les réseaux internet chez les particuliers (installation de nornet, réhabilitation et mise aux normes d’appartements)

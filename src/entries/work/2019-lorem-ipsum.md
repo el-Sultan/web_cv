@@ -1,10 +1,10 @@
 ---
-title: Junior Developer
-organization: Mozilla
-organizationUrl: https://www.mozilla.org
-location: Mountain View, CA
-start: 2019-11-30
-end: 2020-03-14
+title: Aide électricien
+organization: Hans Leutenegger SA (GE)
+organizationUrl: https://www.hansleutenegger.ch/filiales/geneve
+location: Genève, GE
+start: 2016-07-01
+end: 2018-11-01
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Sit amet consectetur adipiscing elit.
+J’ai travaillé pour la société Hans Leutenegger SA (GE) en tant qu’aide monteur sur différents sites, comme pour la réhabilitation des collèges (état de Genève), et l’extension de l’aéroport de Genève.
